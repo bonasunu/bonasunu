@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+As Grace Hopper said:
+> I’ve always been more interested 
+> in the future than in the past.
