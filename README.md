@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
+
+![Marco's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
