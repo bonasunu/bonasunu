@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
-<img width = "35%" align="right" alt="GIF" height="300px" src="https://64.media.tumblr.com/a02425bcd1cc9b4f5444032cc2deaf28/tumblr_n5mbn1LNR31sx5ck7o1_500.gif" />
+<img width = "35%" align="right" alt="GIF" height="300px" src="https://giphy.com/gifs/l0NwNrl4BtDD7JCx2" />
 
 ![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
