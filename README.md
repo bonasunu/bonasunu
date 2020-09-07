@@ -27,5 +27,5 @@ As Grace Hopper said:
 > in the future than in the past.
 
 ![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=cobalt)
-<img width = "30%" align="right" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
+<img width = "30%" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
 
