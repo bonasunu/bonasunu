@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on <a href="https://github.com/bonasunu/pizzaSOS" target="_blank">SOS Pizza</a>
+- 🌱 I’m currently learning redux, GraphQL, TypeScript
+
 As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
