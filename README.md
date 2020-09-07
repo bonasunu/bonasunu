@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there
+<img src="https://media.giphy.com/media/iJUhSOR9agCiXPFBqu/giphy.gif" width="25">
 
 <!--
 **bonasunu/bonasunu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +20,4 @@ As Grace Hopper said:
 > in the future than in the past.
 <img width = "30%" align="right" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
 
-![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
+![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=cobalt)
