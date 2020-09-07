@@ -20,5 +20,3 @@ As Grace Hopper said:
 <img width = "35%" align="right" alt="GIF" height="300px" src="https://64.media.tumblr.com/a02425bcd1cc9b4f5444032cc2deaf28/tumblr_n5mbn1LNR31sx5ck7o1_500.gif" />
 
 ![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
-
-![Bonaventura's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bonasunu&show_icons=true&theme=tokyonight)
