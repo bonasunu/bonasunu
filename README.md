@@ -18,4 +18,6 @@ As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
 
-![Marco's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
+![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=tokyonight)
+
+![Bonaventura's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bonasunu&show_icons=true&theme=tokyonight)
