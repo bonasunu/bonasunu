@@ -25,6 +25,7 @@ I'm Bonaventura, a passionate self-taught full stack developer from Indonesia.
 As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
-<img width = "30%" align="right" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
 
 ![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=cobalt)
+<img width = "30%" align="right" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
+
