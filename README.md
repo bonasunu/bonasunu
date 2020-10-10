@@ -26,6 +26,6 @@ As Grace Hopper said:
 > I’ve always been more interested 
 > in the future than in the past.
 
-![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=cobalt)
+![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=default)
 <img align="right" width = "30%" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" />
 
