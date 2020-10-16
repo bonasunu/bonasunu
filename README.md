@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I'm Bonaventura, a passionate self-taught full stack developer from Indonesia.
 
-- 🔭 I’m currently working on <a href="https://github.com/bonasunu/pizzaSOS" target="_blank">SOS Pizza</a>
+- 🔭 I’m currently working on <a href="https://github.com/bonasunu/pizzaSOS" target="_blank">SOS Pizza</a> and <a href="https://github.com/bonasunu/fullstackopen.id" target="_blank">fullstackopen.id</a>
 - 🌱 I’m currently learning GraphQL, TypeScript
 
 [![Linkedin: Bonaventura Sunu](https://img.shields.io/badge/-bonasunu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonasunu/)](https://www.linkedin.com/in/bonasunu/)
