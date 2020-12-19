@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bonaventura, a passionate self-taught full stack developer from Indonesia.
+I'm Bonaventura, a passionate self-taught full stack developer from Indonesia. Welcome to my journal about my journey to become modern self-taught developer.
+My account consists of many repos from algorithmic challenges to web elements.
+Ciao!
 
 - 🔭 I’m currently working on <a href="https://github.com/bonasunu/pizzaSOS" target="_blank">SOS Pizza</a> and <a href="https://github.com/bonasunu/fullstackopen.id" target="_blank">fullstackopen.id</a>
 - 🌱 I’m currently learning GraphQL, TypeScript
@@ -27,3 +29,5 @@ I'm Bonaventura, a passionate self-taught full stack developer from Indonesia.
 ![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=default)
 
 <!-- <img align="right" width = "30%" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" /> -->
+<br>
+<img alt="GIF" height="auto" src="https://github.com/danistefanovic/build-your-own-x/blob/master/feynman.png?raw=true"/>
