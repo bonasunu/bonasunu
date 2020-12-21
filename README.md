@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bonaventura, a passionate self-taught full stack developer from Indonesia. Welcome to my journal about my journey to become modern self-taught developer.
+I'm Bonaventura, a passionate self-taught full stack developer from Indonesia. Welcome to my journal about my journey to become modern software developer.
 My account consists of many repos from algorithmic challenges to web elements.
 Ciao!
 
