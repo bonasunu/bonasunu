@@ -20,11 +20,3 @@ Here are some ideas to get you started:
 I'm Bonaventura, a passionate self-taught full stack developer from Indonesia. Welcome to my journal about my journey to become modern software developer.
 My account consists of many repos from algorithmic challenges to web elements.
 Ciao!
-
-[![Linkedin: Bonaventura Sunu](https://img.shields.io/badge/-bonasunu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bonasunu/)](https://www.linkedin.com/in/bonasunu/)
-
-![Bpnaventura's github stats](https://github-readme-stats.vercel.app/api?username=bonasunu&show_icons=true&theme=default)
-
-<!-- <img align="right" width = "30%" alt="GIF" height="auto" src="https://media.giphy.com/media/l0NwNrl4BtDD7JCx2/giphy.gif" /> -->
-<br>
-<img alt="GIF" height="auto" src="https://github.com/danistefanovic/build-your-own-x/blob/master/feynman.png?raw=true"/>
